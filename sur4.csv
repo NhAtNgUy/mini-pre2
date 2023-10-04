@@ -1,5 +1,5 @@
 Date,Program,Eng_Certi,CEFR_level,SPK,LIS,REA,WRI,GPA_range,Eng_Compe,3. Bạn có nghĩ tiếng Anh ảnh hưởng đến năng lực học tập của bạn không?,4. Các bạn đang gặp phải những khó khăn gì trong việc tiếp thu những môn học được giảng dạy bằng tiếng Anh?
-02/10/2023 14:26:20,MAS,Chưa có chứng chỉ tiếng anh,Không có chứng chỉ,3,5,4,4,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Đôi khi khó giao tiếp với giáo viên 
+02/10/2023 14:26:20,MAS,NO,NO,3,5,4,4,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Đôi khi khó giao tiếp với giáo viên 
 02/10/2023 14:38:39,MAS,IELTS,B2,7,7,7,6,"3 đến 3,5",Đã từng tham gia,Có ảnh hưởng,Hiện tại mình chưa thấy gặp bất kỳ khó khăn nào
 02/10/2023 14:40:23,MAS,APTIS,B2,7,6,5,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Mình không nắm bắt được toàn bộ bài giảng
 02/10/2023 14:40:43,HAT,VSTEP,B2,7,8,8,6,"2,5 đến 3",Đã từng tham gia,Có ảnh hưởng,không có song ngữ để so sánh nội dung tiếp thu
@@ -24,15 +24,15 @@ Date,Program,Eng_Certi,CEFR_level,SPK,LIS,REA,WRI,GPA_range,Eng_Compe,3. Bạn c
 03/10/2023 14:55:50,MAC,TOEIC,B2,7,9,9,6,"3 đến 3,5",Chưa từng tham gia,Không ảnh hưởng,hiện tại vẫn chưa
 03/10/2023 14:59:09,MAC,IELTS,B2,5,4,5,4,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Difficult to talk with teacher 
 03/10/2023 15:02:37,MET,TOEIC,B1,6,4,6,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Đôi lúc thầy cô nói nhanh 
-03/10/2023 15:05:35,HAT,Khác,B1,7,6,6,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Có khá nhiều văn bản chuyên ngành còn hơi khó khăn trong việc đọc và hiểu rõ
+03/10/2023 15:05:35,HAT,OTHERS,B1,7,6,6,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Có khá nhiều văn bản chuyên ngành còn hơi khó khăn trong việc đọc và hiểu rõ
 03/10/2023 15:08:17,MAC,IELTS,B1,6,7,6,5,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Giao tiếp hạn chế
 03/10/2023 15:21:29,MET,APTIS,B2,5,4,5,4,"2 đến 2,5",Chưa từng tham gia,Có ảnh hưởng,Nghe hơi kém thầy cô nói hơi nhanh khó tiếp thu
-03/10/2023 15:26:31,HAT,Chưa có chứng chỉ tiếng anh,Không có chứng chỉ,3,4,4,3,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Không có vde vì về nhà tự tìm hiểu
+03/10/2023 15:26:31,HAT,NO,NO,3,4,4,3,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Không có vde vì về nhà tự tìm hiểu
 03/10/2023 15:28:18,HAT,VSTEP,B2,3,5,5,5,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Đôi khi nghe khó hiểu vì thầy cô nước ngoài nói nhanh
-03/10/2023 15:38:34,MAS,Chưa có chứng chỉ tiếng anh,Không có chứng chỉ,6,5,5,3,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Nhiều từ chuyên ngành mới chưa từng gặp qua dẫn đến việc khó tiếp thu kiến thức.
+03/10/2023 15:38:34,MAS,NO,NO,6,5,5,3,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Nhiều từ chuyên ngành mới chưa từng gặp qua dẫn đến việc khó tiếp thu kiến thức.
 03/10/2023 15:46:38,MAC,APTIS,C1,4,4,3,4,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Nhiều từ ngữ chuyên ngành quá
 03/10/2023 15:53:41,MAS,APTIS,B2,2,4,5,5,"2 đến 2,5",Đã từng tham gia,Có ảnh hưởng,Từ vựng
-03/10/2023 15:54:38,HAT,Khác,B1,4,6,6,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Không có
+03/10/2023 15:54:38,HAT,OTHERS,B1,4,6,6,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Không có
 03/10/2023 15:59:23,MET,IELTS,B1,5,8,6,6,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Bản thân những môn dạy bằng tiếng anh học sinh chỉ có thể nắm đc 70-85% thôi
 03/10/2023 16:02:20,MET,TOEIC,B1,4,5,7,4,"3,5 đến 4",Chưa từng tham gia,Không ảnh hưởng,Không có vấn đề
 03/10/2023 16:05:27,MAC,IELTS,A2,7,7,7,7,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Khó hiểu hoàn toàn và chính xác nội dung
@@ -51,7 +51,7 @@ Date,Program,Eng_Certi,CEFR_level,SPK,LIS,REA,WRI,GPA_range,Eng_Compe,3. Bạn c
 03/10/2023 20:13:27,MAS,TOEIC,B1,5,4,6,3,"2,5 đến 3",Đã từng tham gia,Có ảnh hưởng, 
 03/10/2023 20:14:37,MAS,APTIS,B2,7,9,9,8,"2,5 đến 3",Đã từng tham gia,Có ảnh hưởng, 
 03/10/2023 20:15:18,MET,IELTS,B2,7,8,8,7,"3 đến 3,5",Đã từng tham gia,Có ảnh hưởng, 
-03/10/2023 20:16:10,MET,Chưa có chứng chỉ tiếng anh,Không có chứng chỉ,5,4,6,5,"2,5 đến 3",Đã từng tham gia,Có ảnh hưởng, 
+03/10/2023 20:16:10,MET,NO,NO,5,4,6,5,"2,5 đến 3",Đã từng tham gia,Có ảnh hưởng, 
 03/10/2023 20:17:01,HAT,VSTEP,C1,8,7,7,6,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng, 
 03/10/2023 20:22:18,MAS,APTIS,B2,6,6,7,5,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng, 
 03/10/2023 20:23:36,MAC,IELTS,B1,5,6,7,4,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng, 
@@ -60,6 +60,6 @@ Date,Program,Eng_Certi,CEFR_level,SPK,LIS,REA,WRI,GPA_range,Eng_Compe,3. Bạn c
 03/10/2023 20:49:11,MET,APTIS,B2,7,8,8,7,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,specialized knowledge
 03/10/2023 20:49:54,MAC,IELTS,B2,7,7,6,8,"2,5 đến 3",Đã từng tham gia,Có ảnh hưởng, 
 03/10/2023 21:19:29,MAC,VSTEP,B2,5,3,6,5,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Giao tiếp khó khăn 1 xíu
-03/10/2023 21:22:32,MAS,Chưa có chứng chỉ tiếng anh,Không có chứng chỉ,4,6,5,5,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Khó hiểu 
+03/10/2023 21:22:32,MAS,NO,NO,4,6,5,5,"2,5 đến 3",Chưa từng tham gia,Có ảnh hưởng,Khó hiểu 
 03/10/2023 21:23:17,HAT,IELTS,B1,6,7,6,6,"3 đến 3,5",Đã từng tham gia,Có ảnh hưởng,Cũng không có khó khăn
-03/10/2023 21:24:22,MET,Khác,B2,7,4,5,6,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Có 1 chút khó hiểu 
+03/10/2023 21:24:22,MET,OTHERS,B2,7,4,5,6,"3 đến 3,5",Chưa từng tham gia,Có ảnh hưởng,Có 1 chút khó hiểu 
