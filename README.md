@@ -205,7 +205,7 @@ li a:hover {background-color: rgb(142, 101, 180)}
         <li><a href="#5">Logistic Regression</a></li>
         
     </ul>
-
+<br id="Home">
 
 <div><h1 id="div3" style="font-family:Bernard MT Condensed;border-radius: 12px;width:fit-content;box-shadow: 2px 7px 7px 0px black">1.Introduction </h1></div>
 <p style="font-family:sans-serif;font-size: 30px ;" id="animation">     After having the discussion about the topic for the mini-presentation, 
@@ -218,7 +218,7 @@ li a:hover {background-color: rgb(142, 101, 180)}
             <img src="fc83abdc915c45021c4d.jpg" class="img_end" alt="ME" width=500px height=450px>
         </div>
     </div>
-
+<center><img src="a30cf67cccfc18a241ed.jpg" class="img_end" alt="me" width=800px height=450px></center>
 
 <h id="Overview"></h>
 <br>
