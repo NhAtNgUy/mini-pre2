@@ -226,7 +226,7 @@ li a:hover {background-color: rgb(142, 101, 180)}
 <br>
 <br>
 <div id="div3"><h1 style="font-family:Bernard MT Condensed;border-radius: 16px;box-shadow: 2px 12px 10px 0px black;">2.Bar Chart </h1></div>
-<p style="font-family:sans-serif;font-size: 30px ;">Because the number of students filling in each major is not the same, my group has divided the average GPA and English certificates. Here, it's the bar charts illustrate the AVG of 2 columns as GPA_point and CEFR_point.</p>
+<p style="font-family:sans-serif;font-size: 30px ;">Because the number of students filling in each major is not the same, my group has calculated the average GPA and English certificates. Here, it's the bar charts illustrate the AVG of 2 columns as GPA_point and CEFR_point.</p>
 <center><img src="12e3b261c8e11cbf45f0.jpg" class="img_end" alt="me" width=800px height=450px></center>
 
 <br>
