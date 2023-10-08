@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>mini-presentation</title>
@@ -196,10 +196,6 @@ li a:hover {background-color: rgb(142, 101, 180)}
 </style>
 </head>
 
-<body>
- <div class="bangtrencung" , id="Grad">
-    <p id="Home">This is Group 2 !!!</p>
- </div>
  
     <ul >
         <li><a href="#Home">Introduction</a></li>
