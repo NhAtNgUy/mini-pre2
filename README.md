@@ -264,5 +264,4 @@ li a:hover {background-color: rgb(142, 101, 180)}
         <img src="70d2ca4ab0ca64943ddb.jpg" class="img_end" alt="ME" width=500px height=450px>
     </div>
 </div>
-</body>
 </html>
