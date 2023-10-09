@@ -233,7 +233,6 @@ li a:hover {background-color: rgb(142, 101, 180)}
 <br>
 <br>
 
-</div>
 <h id="Hoc_van"></h>
 <br>
 <br>
